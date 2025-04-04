@@ -4,70 +4,70 @@
   "hash" : "GgB7KgoE9v4NR53XK1ajfmciCHAnozEy6XUjvbORduIMYDfr6p6Mtmw3SQDShBQpfP2LRBKyxRamV3nYwiSkSusIIiRK+vElB6ctwwn0JrKtIeblVD6lI8Zm2B9HmHta",
   "logsort": [
       {
-          type : "fruit",
-          name: "Dragon",
-          log: "DRAGON(INV)"
+          "type" : "fruit",
+          "name": "Dragon",
+          "log": "DRAGON(INV)"
       },
       {
-          type : "fruit",
-          name: "Kitsune",
-          log: "KS(inv)"
+          "type" : "fruit",
+          "name": "Kitsune",
+          "log": "KS(inv)"
       },
       {
-          type : "fruit",
-          name: "Yeti",
-          log: "YETI(INV)"
+          "type" : "fruit",
+          "name": "Yeti",
+          "log": "YETI(INV)"
       },
       {
-          type : "fruit",
-          name: "T-Rex",
-          log: "TREX(INV)"
+          "type" : "fruit",
+          "name": "T-Rex",
+          "log": "TREX(INV)"
       }
       ,
       {
-          type : "fruit",
-          name: "Leopard",
-          log: "LP(INV)"
+          "type" : "fruit",
+          "name": "Leopard",
+          "log": "LP(INV)"
       },
       {
-          type : "fruit",
-          name: "Gas",
-          log: "GAS(INV)"
+          "type" : "fruit",
+          "name": "Gas",
+          "log": "GAS(INV)"
       },
        {
-          type : "fruit",
-          name: "Dough",
-          log: "DG(inv)"
+          "type" : "fruit",
+          "name": "Dough",
+          "log": "DG(inv)"
       },
        {
-          type : "fruit",
-          name: "Mammoth",
-          log: "MM(inv)"
+          "type" : "fruit",
+          "name": "Mammoth",
+          "log": "MM(inv)"
       },
       {
-          type : "sword",
-          name: "Cursed Dual Katana",
-          log: "CDK"
+          "type" : "sword",
+          "name": "Cursed Dual Katana",
+          "log": "CDK"
       },
       {
-          type : "sword",
-          name: "Anchor",
-          log: "SA"
+          "type" : "sword",
+          "name": "Anchor",
+          "log": "SA"
       },
       {
-          type : "gun",
-          name: "Guitar",
-          log: "SG"
+          "type" : "gun",
+          "name": "Guitar",
+          "log": "SG"
       },
       {
-          type : "fruit-devil",
-          name: "Dough",
-          log: "DG"
+          "type" : "fruit-devil",
+          "name": "Dough",
+          "log": "DG"
       },
       {
-          type : "melee",
-          name: "6",
-          log: "GOD"
+          "type" : "melee",
+          "name": "6",
+          "log": "GOD"
       },
   ]
 }
