@@ -65,6 +65,16 @@
           "log": "DG"
       },
       {
+          "type" : "mats",
+          "name": "Mirror Fractal",
+          "log": "MIR"
+      },
+      {
+          "type" : "accessory",
+          "name": "Valkyrie Helm",
+          "log": "VAL"
+      },
+      {
           "type" : "melee",
           "name": "6",
           "log": "GOD"
