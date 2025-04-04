@@ -11,7 +11,7 @@
       {
           "type" : "fruit",
           "name": "Kitsune",
-          "log": "KS(inv)"
+          "log": "KS(INV)"
       },
       {
           "type" : "fruit",
@@ -37,12 +37,12 @@
        {
           "type" : "fruit",
           "name": "Dough",
-          "log": "DG(inv)"
+          "log": "DG(INV)"
       },
        {
           "type" : "fruit",
           "name": "Mammoth",
-          "log": "MM(inv)"
+          "log": "MM(INV)"
       },
       {
           "type" : "sword",
