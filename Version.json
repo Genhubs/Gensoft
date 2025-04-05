@@ -24,6 +24,11 @@
           "log": "DG"
       },
       {
+          "type": "sword",
+          "name": "Cursed Dual Katana",
+          "log": "CDK"
+      },
+      {
           "type": "gun",
           "name": "Guitar",
           "log": "SG"
@@ -32,11 +37,6 @@
           "type": "sword",
           "name": "Anchor",
           "log": "SA"
-      },
-      {
-          "type": "sword",
-          "name": "Cursed Dual Katana",
-          "log": "CDK"
       },
       {
           "type": "fruit",
