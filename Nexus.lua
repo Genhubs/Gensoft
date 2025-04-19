@@ -14,8 +14,8 @@ task.spawn(function()
                 currentPosition = game.Players.LocalPlayer.Character.HumanoidRootPart.Position;
             end
 
-            if (currentLevel ~= game:GetService("Players").LocalPlayer.Data.Stats.Gun.Level.Value) then
-                currentLevel = game:GetService("Players").LocalPlayer.Data.Stats.Gun.Level.Value
+            if (currentLevel ~= game.Players.LocalPlayer.Data.Level.Value) then
+                currentLevel = game.Players.LocalPlayer.Data.Level.Value
                 bugCheck = tick()
             end
 
