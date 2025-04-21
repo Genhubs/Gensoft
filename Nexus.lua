@@ -10,6 +10,10 @@ task.spawn(function()
     
     while task.wait(1) do
         pcall(function()
+            if game.Players.LocalPlayer.Data.Level.Value >= 2000 then
+                bugCheck = tick()
+            end
+                    
             if (currentPosition ~= game.Players.LocalPlayer.Character.HumanoidRootPart.Position) then
                 currentPosition = game.Players.LocalPlayer.Character.HumanoidRootPart.Position;
             end
