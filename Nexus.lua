@@ -9,7 +9,6 @@ task.spawn(function()
     local bugCheck = tick();
     
     while task.wait(1) do
-            break;
         pcall(function()
             if game.Players.LocalPlayer.Data.Level.Value >= 2000 then
                 bugCheck = tick()
