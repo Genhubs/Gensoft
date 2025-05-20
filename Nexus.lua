@@ -9,6 +9,8 @@ task.spawn(function()
     local bugCheck = tick();
     
     while task.wait(1) do
+        if (_G.ModeLog == "Grow" or _G.ModeLog == "Dead") then break end
+                
         pcall(function()
             if game.Players.LocalPlayer.Data.Level.Value >= 2000 then
                 bugCheck = tick()
