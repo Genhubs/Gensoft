@@ -9,6 +9,11 @@
           "log": "Raccoon"
       },
       {
+          "type": "race",
+          "name": "Dragonfly",
+          "log": "Dragonfly"
+      },
+      {
           "type": "melee",
           "name": "[6]",
           "log": "GOD"
