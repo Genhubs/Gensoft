@@ -2,6 +2,17 @@
   "version" : "Gensoft v1.0.2A",
   "cdn" : "https://github.com/Genhubs/Gensoft/releases/download/v1.0.2A/Release.zip",
   "hash" : "GgB7KgoE9v4NR53XK1ajfmciCHAnozEy6XUjvbORduIMYDfr6p6Mtmw3SQDShBQpfP2LRBKyxRamV3nYwiSkSusIIiRK+vElB6ctwwn0JrKtIeblVD6lI8Zm2B9HmHta",
+  "typeAutoExport" : [
+    "MAX",
+    "GOD",
+    "VAL",
+    "MIR",
+    "CDK",
+    "DR-BONDS 20K",
+    "DR-BONDS 40K",
+    "DR-BONDS 80K",
+    "DR-BONDS 100K",
+  ],
   "logsort": [
      {
           "type": "race",
